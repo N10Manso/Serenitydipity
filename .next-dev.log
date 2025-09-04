@@ -1,0 +1,11 @@
+  ▲ Next.js 14.2.32
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+  - Experiments (use with caution):
+    · typedRoutes
+
+ ✓ Starting...
+ ✓ Ready in 1188ms
+ ✓ Compiled /api/projects in 269ms (58 modules)
+ GET /api/projects 200 in 354ms
+ GET /api/projects 200 in 10ms
